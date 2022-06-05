@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Accès protégé"
+AuthUserFile c:\enesb\Onedrive\Document\lsflyy\connect.htpasswd
+require valid-user
